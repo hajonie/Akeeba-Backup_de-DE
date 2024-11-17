@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="file" version="1.6" method="upgrade" client="site">
-    <name>backup - German</name>
+    <name>Akeeba Backup - German</name>
     <author>Hajo Niemann</author>
     <authorurl>https://hajonie.de</authorurl>
-	<copyright>Copyright (C) 2010-2023 Akeeba Ltd. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2010-2024 Akeeba Ltd. All rights reserved.</copyright>
 	<license>GNU GPL v3 or later</license>
-    <version>v1.0.1</version>
-    <creationDate>29.10.2024</creationDate>
+    <version>v1.0.2</version>
+    <creationDate>17.11.2024</creationDate>
     <description>Deutsche Sprachdateien für Akeeba Backup</description>
 	<fileset>
 		<files folder="backend" target="administrator/language/de-DE">
