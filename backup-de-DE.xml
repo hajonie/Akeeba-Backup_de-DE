@@ -5,8 +5,8 @@
     <authorurl>https://hajonie.de</authorurl>
 	<copyright>Copyright (C) 2010-2024 Akeeba Ltd. All rights reserved.</copyright>
 	<license>GNU GPL v3 or later</license>
-    <version>v1.0.4</version>
-    <creationDate>17.11.2024</creationDate>
+    <version>v1.0.5</version>
+    <creationDate>18.11.2024</creationDate>
     <description>Deutsche Sprachdateien für Akeeba Backup</description>
 	<fileset>
 		<files folder="backend" target="administrator/language/de-DE">
